@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "saborunicoapp",
+    "slug": "saborunicoapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/saborunicoIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/saborunicoIcon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F6F4EB"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/saborunicoIcon.png",
+        "backgroundColor": "#F6F4EB"
+      }
+    },
+    "web": {
+      "favicon": "./assets/saborunicoIcon.png"
+    }
+  }
+}
