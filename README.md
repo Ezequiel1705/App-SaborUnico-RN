@@ -31,6 +31,9 @@ MODIFICACIÓN
 Se debe ver el tema de las dependencias porque a la fecha actual pueden afectar algunas al proyecto ya que pueden no ser compatibles con las versiones de Expo y React Native. Dejo aqui algunos enlaces para que vean la documentación. 
 
 https://docs.expo.dev/
+
 https://reactnavigation.org/docs/getting-started
+
 https://reactnavigation.org/docs/drawer-navigator/
+
 https://redux-toolkit.js.org/introduction/getting-started
