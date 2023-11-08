@@ -19,8 +19,10 @@ Una vez clonado/descargado el proyecto, se debe crear sus propias credenciales e
 Por mientras puede cambiar la logica en la navegacion principal que se encuentra en la carpeta NAVIGATION - INDEX.JS, se debe modificar la condicion a TRUE.
 
 ORIGINAL
+
 ![captura de navegacion](https://github.com/Ezequiel1705/App-saborUnico-RN/assets/83517271/b046f4c1-9b5e-4440-8250-438c73f8c6d5)
 
 MODIFICACIÓN 
+
 ![modificacion de user](https://github.com/Ezequiel1705/App-saborUnico-RN/assets/83517271/2f4c0c1a-4e64-4788-83fe-f9a8fde1e40f)
 
